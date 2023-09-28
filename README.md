@@ -30,7 +30,7 @@ Users can use the piano as follows:
    
 3. *Try Different Melodies:* Users can try out different sounds using the virtual piano.
 
-# VERSÃO EM PORTGUÊS
+# VERSÃO EM PORTUGUÊS
 
 Desafio da equipe de automação de setembro: Piano
 
